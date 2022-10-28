@@ -1,7 +1,6 @@
 import Layout from '../components/Layout';
 import ProductItem from '../components/ProductItem';
-import data from '../components/utils/data';
-import Link from 'next/link';
+import data from '../utils/data';
 
 export default function Home() {
   return (
