@@ -39,7 +39,7 @@ const data = {
     {
       name: 'sasuke t-shirt',
       slug: 'golf-pants',
-      category: 'Pants',
+      category: 'Shirts',
       image: '/images/shirt4.jpg',
       price: 390,
       brand: 'Oliver',
@@ -51,7 +51,7 @@ const data = {
     {
       name: 'Madara t-shirt',
       slug: 'fit-pants',
-      category: 'Pants',
+      category: 'T-shirts',
       image: '/images/shirt5.jpg',
       price: 395,
       brand: 'Zara',
@@ -63,7 +63,7 @@ const data = {
     {
       name: 'Zoro t-shirt',
       slug: 'classic-pants',
-      category: 'Pants',
+      category: 'T-shirts',
       image: '/images/shirt6.jpg',
       price: 575,
       brand: 'Casely',
