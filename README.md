@@ -46,3 +46,13 @@ Day-2
     2. use context to get cart items
     3. list items in cart items
     4. redirect to cart screen after add to cart.
+
+Update quantity in the cart
+
+1.  add select box for quantity
+2.  handle select box change
+
+Save Cart Items
+
+1. Install js-cookie package
+2. save and retreive cart items in cookies
